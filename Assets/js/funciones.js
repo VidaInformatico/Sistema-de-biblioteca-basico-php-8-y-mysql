@@ -191,16 +191,15 @@ document.addEventListener("DOMContentLoaded", function(){
             },
             {
                 'data': 'cantidad'
-            },
-            
+            },            
             {
                 'data': 'autor'
-            },
-            {
-                'data': 'autor'
-            },
+            },            
             {
                 'data': 'editorial'
+            },
+	    {
+                'data': 'materia'
             },
             {
                 'data': 'foto'
